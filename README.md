@@ -1,3 +1,7 @@
+# Challenge Token
+
+ZjATJXPFP7NHkQDJfkSRdJ
+
 # Xinzuo Shopify clone — TYICDI hiring task
 
 A sanitised, single-command clone of [xinzuo.com.au](https://xinzuo.com.au) running on your **own** free Shopify dev store: real Liquid theme, ~50 sample products (the ones the homepage actually references, plus backfill), 68 collections, 17 pages, 5 articles, and 162 optimised images. Your 2-hour timed window starts when you tick the commit gate on the [hiring portal](https://apply.toldyouicoulddoit.com). Setup below does **not** count against the timer — do it ahead of time.
